@@ -1,0 +1,28 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Age	/home/hdp/public/a老师程序/ptr/structStu.c	/^    int Age ;$/;"	kind:member	line:6	language:C	struct:stu_info	file:	access:public
+Data	/home/hdp/public/a老师程序/ptr/ptrsort.c	/^int Data[] = {99 , 88 , 77 , 66 , 55 , 44 , 33 , 22 , 11} ;$/;"	kind:variable	line:5	language:C
+DispData	/home/hdp/public/a老师程序/ptr/ptrsort.c	/^void DispData(void)$/;"	kind:function	line:7	language:C	signature:(void)
+NUM	/home/hdp/public/a老师程序/ptr/ptrsort.c	3;"	kind:macro	line:3	language:C	file:
+Name	/home/hdp/public/a老师程序/ptr/structStu.c	/^    char Name[30] ;$/;"	kind:member	line:5	language:C	struct:stu_info	file:	access:public
+Sex	/home/hdp/public/a老师程序/ptr/structStu.c	/^    char Sex[8] ;$/;"	kind:member	line:7	language:C	struct:stu_info	file:	access:public
+Tel	/home/hdp/public/a老师程序/ptr/structStu.c	/^    char Tel[15] ;$/;"	kind:member	line:8	language:C	struct:stu_info	file:	access:public
+ZhangShan	/home/hdp/public/a老师程序/ptr/structStu.c	/^struct stu_info  ZhangShan = $/;"	kind:variable	line:13	language:C	typeref:struct:stu_info
+main	/home/hdp/public/a老师程序/ptr/ptrsort.c	/^void main(void)$/;"	kind:function	line:19	language:C	signature:(void)
+main	/home/hdp/public/a老师程序/ptr/structStu.c	/^void main(void)$/;"	kind:function	line:21	language:C	signature:(void)
+p	/home/hdp/public/a老师程序/ptr/ptrsort.c	/^    int *p ;$/;"	kind:local	line:9	language:C
+pHead	/home/hdp/public/a老师程序/ptr/ptrsort.c	/^    int *pHead ;                \/\/指向头位置的指针$/;"	kind:local	line:21	language:C
+pTail	/home/hdp/public/a老师程序/ptr/ptrsort.c	/^    int *pTail ;                \/\/指向尾位置的指针$/;"	kind:local	line:22	language:C
+ptrsort.c	/home/hdp/public/a老师程序/ptr/ptrsort.c	1;"	kind:file	line:1	language:C
+structStu.c	/home/hdp/public/a老师程序/ptr/structStu.c	1;"	kind:file	line:1	language:C
+stu_info	/home/hdp/public/a老师程序/ptr/structStu.c	/^struct stu_info$/;"	kind:struct	line:3	language:C	file:
+stu_info::Age	/home/hdp/public/a老师程序/ptr/structStu.c	/^    int Age ;$/;"	kind:member	line:6	language:C	struct:stu_info	file:	access:public
+stu_info::Name	/home/hdp/public/a老师程序/ptr/structStu.c	/^    char Name[30] ;$/;"	kind:member	line:5	language:C	struct:stu_info	file:	access:public
+stu_info::Sex	/home/hdp/public/a老师程序/ptr/structStu.c	/^    char Sex[8] ;$/;"	kind:member	line:7	language:C	struct:stu_info	file:	access:public
+stu_info::Tel	/home/hdp/public/a老师程序/ptr/structStu.c	/^    char Tel[15] ;$/;"	kind:member	line:8	language:C	struct:stu_info	file:	access:public
+tmp	/home/hdp/public/a老师程序/ptr/ptrsort.c	/^    int tmp ;$/;"	kind:local	line:23	language:C
+x	/home/hdp/public/a老师程序/ptr/structStu.c	/^int x = 100 ;$/;"	kind:variable	line:11	language:C

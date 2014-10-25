@@ -1,0 +1,14 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+c	/home/hdp/public/a老师程序/键盘程序getch/keygetch.c	/^    int c ;  $/;"	kind:local	line:9	language:C
+fd	/home/hdp/public/a老师程序/键盘程序getch/keygetch.c	/^    int fd = STDIN_FILENO;$/;"	kind:local	line:8	language:C
+getch	/home/hdp/public/a老师程序/键盘程序getch/keygetch.c	/^int getch(void)  $/;"	kind:function	line:5	language:C	signature:(void)
+key	/home/hdp/public/a老师程序/键盘程序getch/keygetch.c	/^    int key ;$/;"	kind:local	line:25	language:C
+keygetch.c	/home/hdp/public/a老师程序/键盘程序getch/keygetch.c	1;"	kind:file	line:1	language:C
+main	/home/hdp/public/a老师程序/键盘程序getch/keygetch.c	/^void main(void)$/;"	kind:function	line:23	language:C	signature:(void)
+tm	/home/hdp/public/a老师程序/键盘程序getch/keygetch.c	/^    struct termios tm, tm_old;  $/;"	kind:local	line:7	language:C
+tm_old	/home/hdp/public/a老师程序/键盘程序getch/keygetch.c	/^    struct termios tm, tm_old;  $/;"	kind:local	line:7	language:C

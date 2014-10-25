@@ -1,0 +1,50 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Buff	/home/hdp/public/a老师程序/score1/score.c	/^    char Buff[200];$/;"	kind:local	line:150	language:C
+Cnt	/home/hdp/public/a老师程序/score1/score.c	/^    int Cnt ;       \/\/人数$/;"	kind:local	line:184	language:C
+CurLessonNum	/home/hdp/public/a老师程序/score1/score.c	/^int CurLessonNum ;          \/\/当前课程数量$/;"	kind:variable	line:8	language:C
+CurManNum	/home/hdp/public/a老师程序/score1/score.c	/^int CurManNum ;             \/\/当前实际人数$/;"	kind:variable	line:7	language:C
+Data	/home/hdp/public/a老师程序/score1/sort.c	/^struct STU_INFO Data[10] ;$/;"	kind:variable	line:5	language:C	typeref:struct:STU_INFO
+DispScoreArea	/home/hdp/public/a老师程序/score1/score.c	/^void DispScoreArea(int lessonNo , int Min , int Max)$/;"	kind:function	line:182	language:C	signature:(int lessonNo , int Min , int Max)
+DispStuInfo	/home/hdp/public/a老师程序/score1/score.c	/^void DispStuInfo()$/;"	kind:function	line:78	language:C
+LoadFile	/home/hdp/public/a老师程序/score1/score.c	/^void LoadFile(void)$/;"	kind:function	line:145	language:C	signature:(void)
+MAX_MAN_NUM	/home/hdp/public/a老师程序/score1/score.c	4;"	kind:macro	line:4	language:C	file:
+MAX_SCORE_NUM	/home/hdp/public/a老师程序/score1/score.c	3;"	kind:macro	line:3	language:C	file:
+MovMaxToHead	/home/hdp/public/a老师程序/score1/score.c	/^void MovMaxToHead(struct STU_INFO buf[] , int HeadPos , int lessonNo , int Len)$/;"	kind:function	line:18	language:C	signature:(struct STU_INFO buf[] , int HeadPos , int lessonNo , int Len)
+NUM	/home/hdp/public/a老师程序/score1/sort.c	3;"	kind:macro	line:3	language:C	file:
+Name	/home/hdp/public/a老师程序/score1/score.c	/^    char Name[30] ;$/;"	kind:member	line:12	language:C	struct:STU_INFO	file:	access:public
+STU_INFO	/home/hdp/public/a老师程序/score1/score.c	/^struct STU_INFO$/;"	kind:struct	line:10	language:C	file:
+STU_INFO::Name	/home/hdp/public/a老师程序/score1/score.c	/^    char Name[30] ;$/;"	kind:member	line:12	language:C	struct:STU_INFO	file:	access:public
+STU_INFO::Score	/home/hdp/public/a老师程序/score1/score.c	/^    float Score[MAX_SCORE_NUM];$/;"	kind:member	line:13	language:C	struct:STU_INFO	file:	access:public
+Score	/home/hdp/public/a老师程序/score1/score.c	/^    float Score[MAX_SCORE_NUM];$/;"	kind:member	line:13	language:C	struct:STU_INFO	file:	access:public
+Student	/home/hdp/public/a老师程序/score1/score.c	/^struct STU_INFO   Student[MAX_MAN_NUM] ;$/;"	kind:variable	line:16	language:C	typeref:struct:STU_INFO
+TOTAL_LESSON_NO	/home/hdp/public/a老师程序/score1/score.c	5;"	kind:macro	line:5	language:C	file:
+dispData	/home/hdp/public/a老师程序/score1/sort.c	/^void dispData(void)$/;"	kind:function	line:7	language:C	signature:(void)
+getManTotalScore	/home/hdp/public/a老师程序/score1/score.c	/^float getManTotalScore(int ManNo)$/;"	kind:function	line:57	language:C	signature:(int ManNo)
+getTotalScore	/home/hdp/public/a老师程序/score1/score.c	/^void getTotalScore(void)$/;"	kind:function	line:69	language:C	signature:(void)
+getWordNum	/home/hdp/public/a老师程序/score1/score.c	/^int getWordNum(char buf[])$/;"	kind:function	line:101	language:C	signature:(char buf[])
+i	/home/hdp/public/a老师程序/score1/score.c	/^    int i ;$/;"	kind:local	line:103	language:C
+i	/home/hdp/public/a老师程序/score1/score.c	/^    int i ;$/;"	kind:local	line:147	language:C
+i	/home/hdp/public/a老师程序/score1/score.c	/^    int i ;$/;"	kind:local	line:185	language:C
+i	/home/hdp/public/a老师程序/score1/score.c	/^    int i ;$/;"	kind:local	line:202	language:C
+i	/home/hdp/public/a老师程序/score1/score.c	/^    int i ;$/;"	kind:local	line:43	language:C
+i	/home/hdp/public/a老师程序/score1/score.c	/^    int i ;$/;"	kind:local	line:59	language:C
+i	/home/hdp/public/a老师程序/score1/score.c	/^    int i ;$/;"	kind:local	line:71	language:C
+i	/home/hdp/public/a老师程序/score1/score.c	/^    int i ;$/;"	kind:local	line:80	language:C
+i	/home/hdp/public/a老师程序/score1/score.c	/^    int i; $/;"	kind:local	line:20	language:C
+i	/home/hdp/public/a老师程序/score1/sort.c	/^    int i ;$/;"	kind:local	line:9	language:C
+j	/home/hdp/public/a老师程序/score1/score.c	/^    int j ;$/;"	kind:local	line:148	language:C
+j	/home/hdp/public/a老师程序/score1/score.c	/^    int j ;$/;"	kind:local	line:81	language:C
+main	/home/hdp/public/a老师程序/score1/score.c	/^void main(void)$/;"	kind:function	line:200	language:C	signature:(void)
+main	/home/hdp/public/a老师程序/score1/sort.c	/^void main(void)$/;"	kind:function	line:19	language:C	signature:(void)
+pf	/home/hdp/public/a老师程序/score1/score.c	/^    FILE *pf ;$/;"	kind:local	line:149	language:C
+score.c	/home/hdp/public/a老师程序/score1/score.c	1;"	kind:file	line:1	language:C
+sort	/home/hdp/public/a老师程序/score1/score.c	/^void sort(struct STU_INFO Buf[] , int lessonNo ,int Len)$/;"	kind:function	line:41	language:C	signature:(struct STU_INFO Buf[] , int lessonNo ,int Len)
+sort.c	/home/hdp/public/a老师程序/score1/sort.c	1;"	kind:file	line:1	language:C
+sum	/home/hdp/public/a老师程序/score1/score.c	/^    float sum ;$/;"	kind:local	line:60	language:C
+tmp	/home/hdp/public/a老师程序/score1/score.c	/^    struct STU_INFO tmp ;$/;"	kind:local	line:21	language:C
+wordCnt	/home/hdp/public/a老师程序/score1/score.c	/^    int wordCnt ;$/;"	kind:local	line:104	language:C

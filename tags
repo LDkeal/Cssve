@@ -1,0 +1,277 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Average	/home/hdp/public/a老师程序/score.c	/^    float Average ;$/;"	kind:local	line:49	language:C
+BlankCnt	/home/hdp/public/a老师程序/charcnt.c	/^int BlankCnt ;  \/\/空格字符的个数$/;"	kind:variable	line:5	language:C
+Circle	/home/hdp/public/a老师程序/circle.c	/^int Circle[MAN_NUM] ;$/;"	kind:variable	line:12	language:C
+Circle	/home/hdp/public/a老师程序/circle2.c	/^int Circle[13] ;        \/\/1：在圈内相应位置有人，0：相应位置没人$/;"	kind:variable	line:3	language:C
+Circle	/home/hdp/public/a老师程序/circle3.c	/^int Circle[13] ;            \/\/圈的表示,1:相应位置有人,0:相应位置无人$/;"	kind:variable	line:17	language:C
+Circle	/home/hdp/public/a老师程序/test/circle/circle.c	/^int Circle[13] ;            \/\/圈的表示,1:相应位置有人,0:相应位置无人$/;"	kind:variable	line:3	language:C
+CircleManNum	/home/hdp/public/a老师程序/circle.c	/^int CircleManNum ;      \/\/圈内人数$/;"	kind:variable	line:13	language:C
+Cnt	/home/hdp/public/a老师程序/score.c	/^    int Cnt ;       \/\/不及格课程计数$/;"	kind:local	line:51	language:C
+Count	/home/hdp/public/a老师程序/circle.c	/^    int Count ;             \/\/123点数$/;"	kind:local	line:63	language:C
+CurManNum	/home/hdp/public/a老师程序/circle2.c	/^int CurManNum ;         \/\/当前圈内人数$/;"	kind:variable	line:4	language:C
+CurManNum	/home/hdp/public/a老师程序/circle3.c	/^int CurManNum ;             \/\/当前圈内人数$/;"	kind:variable	line:18	language:C
+CurManNum	/home/hdp/public/a老师程序/test/circle/circle.c	/^int CurManNum ;             \/\/当前圈内人数$/;"	kind:variable	line:4	language:C
+Data	/home/hdp/public/a老师程序/charStar.c	/^    unsigned char Data ;$/;"	kind:local	line:284	language:C
+Data	/home/hdp/public/a老师程序/max.c	/^int Data[50] ;$/;"	kind:variable	line:3	language:C
+Day1	/home/hdp/public/a老师程序/monthdays.c	/^int Day1 = 10;$/;"	kind:variable	line:5	language:C
+Day2	/home/hdp/public/a老师程序/monthdays.c	/^int Day2 = 12 ;$/;"	kind:variable	line:9	language:C
+Days	/home/hdp/public/a老师程序/monthdays.c	/^    int Days ;      \/\/相差天数$/;"	kind:local	line:50	language:C
+Days	/home/hdp/public/a老师程序/monthdays.c	/^    int Days ;$/;"	kind:local	line:93	language:C
+DecCnt	/home/hdp/public/a老师程序/charcnt.c	/^int DecCnt ;    \/\/数字字符的个数$/;"	kind:variable	line:4	language:C
+DispMainMenu	/home/hdp/public/a老师程序/bank.c	/^void DispMainMenu(void)$/;"	kind:function	line:28	language:C	signature:(void)
+DispResult	/home/hdp/public/a老师程序/bank.c	/^void DispResult(void)$/;"	kind:function	line:13	language:C	signature:(void)
+EnCnt	/home/hdp/public/a老师程序/charcnt.c	/^int EnCnt ;     \/\/英文字符的个数$/;"	kind:variable	line:3	language:C
+EndPos	/home/hdp/public/a老师程序/maxlenword.c	/^    int EndPos ;        \/\/单词结束位置$/;"	kind:local	line:13	language:C
+Head	/home/hdp/public/a老师程序/strsort.c	/^    int Head ;      \/\/头指示位置$/;"	kind:local	line:8	language:C
+Len	/home/hdp/public/a老师程序/fileConect.c	/^    long Len ;           \/\/文件长度$/;"	kind:member	line:8	language:C	struct:file_head	file:	access:public
+Len	/home/hdp/public/a老师程序/fileConect.c	/^    long Len ;$/;"	kind:local	line:13	language:C
+Len	/home/hdp/public/a老师程序/fileexport.c	/^    long Len ;           \/\/文件长度$/;"	kind:member	line:7	language:C	struct:file_head	file:	access:public
+Len	/home/hdp/public/a老师程序/maxlenword.c	/^    int Len ;           \/\/单词长度$/;"	kind:local	line:14	language:C
+LineNum	/home/hdp/public/a老师程序/star.c	/^    int LineNum ;$/;"	kind:local	line:26	language:C
+LineNum	/home/hdp/public/a老师程序/test/Star/star.c	/^    int LineNum ;$/;"	kind:local	line:26	language:C
+MAN_NUM	/home/hdp/public/a老师程序/circle.c	10;"	kind:macro	line:10	language:C	file:
+MakeCircle	/home/hdp/public/a老师程序/circle.c	/^void MakeCircle(void)$/;"	kind:function	line:21	language:C	signature:(void)
+Max	/home/hdp/public/a老师程序/max.c	/^    int Max ;$/;"	kind:local	line:26	language:C
+MaxLen	/home/hdp/public/a老师程序/maxlenword.c	/^int MaxLen ;        \/\/最长单词的长度$/;"	kind:variable	line:5	language:C
+MaxWordPos	/home/hdp/public/a老师程序/maxlenword.c	/^int MaxWordPos ;    \/\/最长单词的位置$/;"	kind:variable	line:6	language:C
+Money	/home/hdp/public/a老师程序/bank.c	/^    int Money ;$/;"	kind:local	line:43	language:C
+Money	/home/hdp/public/a老师程序/bank.c	/^    int Money ;$/;"	kind:local	line:76	language:C
+Money	/home/hdp/public/a老师程序/bank.c	/^    int Money = 152 ;         \/\/取款金额$/;"	kind:local	line:111	language:C
+MoneyBox	/home/hdp/public/a老师程序/bank.c	/^int MoneyBox[TYPE_NUM] = {0};        \/\/钱箱,张数$/;"	kind:variable	line:10	language:C
+MoneyType	/home/hdp/public/a老师程序/bank.c	/^int MoneyType[] = {100 , 50 , 20 , 10 , 5 , 2 , 1};         \/\/币种类型$/;"	kind:variable	line:7	language:C
+Month1	/home/hdp/public/a老师程序/monthdays.c	/^int Month1 = 1 ;$/;"	kind:variable	line:4	language:C
+Month2	/home/hdp/public/a老师程序/monthdays.c	/^int Month2 = 3 ;$/;"	kind:variable	line:8	language:C
+MonthTab	/home/hdp/public/a老师程序/month.c	/^char MonthTab[12][10] =$/;"	kind:variable	line:21	language:C
+MonthTab	/home/hdp/public/a老师程序/monthdays.c	/^int MonthTab[] =$/;"	kind:variable	line:11	language:C
+Months	/home/hdp/public/a老师程序/month.c	/^    int Months ;$/;"	kind:local	line:39	language:C
+Name	/home/hdp/public/a老师程序/fileConect.c	/^    char Name[20] ;     \/\/文件名$/;"	kind:member	line:7	language:C	struct:file_head	file:	access:public
+Name	/home/hdp/public/a老师程序/fileexport.c	/^    char Name[20] ;     \/\/文件名$/;"	kind:member	line:6	language:C	struct:file_head	file:	access:public
+Num	/home/hdp/public/a老师程序/max.c	/^    int Num ;           \/\/数据元素个数$/;"	kind:local	line:25	language:C
+OtherCnt	/home/hdp/public/a老师程序/charcnt.c	/^int OtherCnt ;  \/\/其他字符的个数$/;"	kind:variable	line:6	language:C
+OutCircle	/home/hdp/public/a老师程序/circle.c	/^void OutCircle(int Pos)$/;"	kind:function	line:37	language:C	signature:(int Pos)
+Pos	/home/hdp/public/a老师程序/circle.c	/^    int Pos ;               \/\/当前已经点到了第几个人$/;"	kind:local	line:64	language:C
+Pos	/home/hdp/public/a老师程序/circle2.c	/^    int Pos ;           \/\/当前点到的位置$/;"	kind:local	line:10	language:C
+Pos	/home/hdp/public/a老师程序/circle3.c	/^    int Pos ;           \/\/点数的位置$/;"	kind:local	line:35	language:C
+Pos	/home/hdp/public/a老师程序/test/circle/circle.c	/^    int Pos ;           \/\/点数的位置$/;"	kind:local	line:21	language:C
+Query	/home/hdp/public/a老师程序/bank.c	/^void Query(void)$/;"	kind:function	line:92	language:C	signature:(void)
+Result	/home/hdp/public/a老师程序/bank.c	/^int Result[TYPE_NUM] ;          \/\/取款结果数组,张数$/;"	kind:variable	line:8	language:C
+Score	/home/hdp/public/a老师程序/circle3.c	/^float Score[5][5] =$/;"	kind:variable	line:2	language:C
+Score	/home/hdp/public/a老师程序/score.c	/^float Score[5][5] = $/;"	kind:variable	line:4	language:C
+StartPos	/home/hdp/public/a老师程序/maxlenword.c	/^    int StartPos ;      \/\/单词起始位置$/;"	kind:local	line:12	language:C
+Str	/home/hdp/public/a老师程序/maxlenword.c	/^char Str[200] = "This is a dog abcdefg888 akedj adskj 22 asfjd." ;$/;"	kind:variable	line:3	language:C
+Str	/home/hdp/public/a老师程序/strsort.c	/^char Str[200] = "hello" ;  $/;"	kind:variable	line:4	language:C
+Sum	/home/hdp/public/a老师程序/bank.c	/^    int Sum ;$/;"	kind:local	line:77	language:C
+Sum	/home/hdp/public/a老师程序/bank.c	/^    int Sum ;$/;"	kind:local	line:95	language:C
+Sum	/home/hdp/public/a老师程序/score.c	/^    float Sum ;     \/\/和的变量$/;"	kind:local	line:48	language:C
+Sum	/home/hdp/public/a老师程序/score.c	/^    float Sum ;$/;"	kind:local	line:23	language:C
+Sum	/home/hdp/public/a老师程序/score.c	/^    float Sum ;$/;"	kind:local	line:35	language:C
+TYPE_NUM	/home/hdp/public/a老师程序/bank.c	5;"	kind:macro	line:5	language:C	file:
+Tail	/home/hdp/public/a老师程序/strsort.c	/^    int Tail ;      \/\/尾指示位置$/;"	kind:local	line:9	language:C
+Year1	/home/hdp/public/a老师程序/monthdays.c	/^int Year1 = 2012 ;$/;"	kind:variable	line:3	language:C
+Year2	/home/hdp/public/a老师程序/monthdays.c	/^int Year2 = 2012 ;$/;"	kind:variable	line:7	language:C
+a	/home/hdp/public/a老师程序/month.c	/^int a[10] ;$/;"	kind:variable	line:3	language:C
+a	/home/hdp/public/a老师程序/month.c	/^int a[3][5] ;$/;"	kind:variable	line:10	language:C
+a	/home/hdp/public/a老师程序/swap.c	/^    int a = 99 ;$/;"	kind:local	line:13	language:C
+a.c	/home/hdp/public/a老师程序/a.c	1;"	kind:file	line:1	language:C
+area.c	/home/hdp/public/a老师程序/area.c	1;"	kind:file	line:1	language:C
+b	/home/hdp/public/a老师程序/swap.c	/^    int b = 100 ;$/;"	kind:local	line:14	language:C
+b.c	/home/hdp/public/a老师程序/b.c	1;"	kind:file	line:1	language:C
+bank.c	/home/hdp/public/a老师程序/bank.c	1;"	kind:file	line:1	language:C
+body.c	/home/hdp/public/a老师程序/body.c	1;"	kind:file	line:1	language:C
+c.c	/home/hdp/public/a老师程序/c.c	1;"	kind:file	line:1	language:C
+ch	/home/hdp/public/a老师程序/charStar.c	/^    char ch ;$/;"	kind:local	line:282	language:C
+ch	/home/hdp/public/a老师程序/charcnt.c	/^    int ch ;$/;"	kind:local	line:23	language:C
+ch	/home/hdp/public/a老师程序/fileConect.c	/^    char ch ;$/;"	kind:local	line:14	language:C
+ch	/home/hdp/public/a老师程序/fileConect.c	/^    char ch ;$/;"	kind:local	line:35	language:C
+ch	/home/hdp/public/a老师程序/fileDisp.c	/^    char ch ;$/;"	kind:local	line:7	language:C
+ch	/home/hdp/public/a老师程序/filecon.c	/^    unsigned char ch ;$/;"	kind:local	line:7	language:C
+ch	/home/hdp/public/a老师程序/filecpy.c	/^    char ch ;$/;"	kind:local	line:7	language:C
+ch	/home/hdp/public/a老师程序/filecpybak.c	/^    char ch ;$/;"	kind:local	line:7	language:C
+ch	/home/hdp/public/a老师程序/fileread.c	/^    char ch ;$/;"	kind:local	line:5	language:C
+charStar.c	/home/hdp/public/a老师程序/charStar.c	1;"	kind:file	line:1	language:C
+charcnt.c	/home/hdp/public/a老师程序/charcnt.c	1;"	kind:file	line:1	language:C
+circle.c	/home/hdp/public/a老师程序/circle.c	1;"	kind:file	line:1	language:C
+circle.c	/home/hdp/public/a老师程序/test/circle/circle.c	1;"	kind:file	line:1	language:C
+circle2.c	/home/hdp/public/a老师程序/circle2.c	1;"	kind:file	line:1	language:C
+circle3.c	/home/hdp/public/a老师程序/circle3.c	1;"	kind:file	line:1	language:C
+cnt	/home/hdp/public/a老师程序/circle2.c	/^    int cnt ;           \/\/存放123点数的变量$/;"	kind:local	line:9	language:C
+cnt	/home/hdp/public/a老师程序/circle3.c	/^    int cnt ;           \/\/存放1\/2\/3点数的变量$/;"	kind:local	line:34	language:C
+cnt	/home/hdp/public/a老师程序/test/circle/circle.c	/^    int cnt ;           \/\/存放1\/2\/3点数的变量$/;"	kind:local	line:20	language:C
+d.c	/home/hdp/public/a老师程序/d.c	1;"	kind:file	line:1	language:C
+dispCircle	/home/hdp/public/a老师程序/circle.c	/^void dispCircle(void)$/;"	kind:function	line:43	language:C	signature:(void)
+dispCircle	/home/hdp/public/a老师程序/circle3.c	/^void dispCircle(void)$/;"	kind:function	line:20	language:C	signature:(void)
+dispCircle	/home/hdp/public/a老师程序/test/circle/circle.c	/^void dispCircle(void)$/;"	kind:function	line:6	language:C	signature:(void)
+fileConect.c	/home/hdp/public/a老师程序/fileConect.c	1;"	kind:file	line:1	language:C
+fileDisp.c	/home/hdp/public/a老师程序/fileDisp.c	1;"	kind:file	line:1	language:C
+fileHead	/home/hdp/public/a老师程序/fileexport.c	/^    struct file_head fileHead ;     \/\/定义结构体变量$/;"	kind:local	line:17	language:C
+fileName	/home/hdp/public/a老师程序/fileConect.c	/^    char fileName[50] ;         \/\/合并后的文件名$/;"	kind:local	line:38	language:C
+fileRd	/home/hdp/public/a老师程序/fileConect.c	/^    struct file_head fileRd ;$/;"	kind:local	line:36	language:C
+fileReadName	/home/hdp/public/a老师程序/fileConect.c	/^    char fileReadName[50] ;     \/\/要合并的文件名$/;"	kind:local	line:39	language:C
+fileReadName	/home/hdp/public/a老师程序/fileexport.c	/^    char fileReadName[50] ;         \/\/解压文件名$/;"	kind:local	line:15	language:C
+file_head	/home/hdp/public/a老师程序/fileConect.c	/^struct file_head$/;"	kind:struct	line:5	language:C	file:
+file_head	/home/hdp/public/a老师程序/fileexport.c	/^struct file_head$/;"	kind:struct	line:4	language:C	file:
+file_head::Len	/home/hdp/public/a老师程序/fileConect.c	/^    long Len ;           \/\/文件长度$/;"	kind:member	line:8	language:C	struct:file_head	file:	access:public
+file_head::Len	/home/hdp/public/a老师程序/fileexport.c	/^    long Len ;           \/\/文件长度$/;"	kind:member	line:7	language:C	struct:file_head	file:	access:public
+file_head::Name	/home/hdp/public/a老师程序/fileConect.c	/^    char Name[20] ;     \/\/文件名$/;"	kind:member	line:7	language:C	struct:file_head	file:	access:public
+file_head::Name	/home/hdp/public/a老师程序/fileexport.c	/^    char Name[20] ;     \/\/文件名$/;"	kind:member	line:6	language:C	struct:file_head	file:	access:public
+filecon.c	/home/hdp/public/a老师程序/filecon.c	1;"	kind:file	line:1	language:C
+filecpy.c	/home/hdp/public/a老师程序/filecpy.c	1;"	kind:file	line:1	language:C
+filecpybak.c	/home/hdp/public/a老师程序/filecpybak.c	1;"	kind:file	line:1	language:C
+fileexport.c	/home/hdp/public/a老师程序/fileexport.c	1;"	kind:file	line:1	language:C
+fileread.c	/home/hdp/public/a老师程序/fileread.c	1;"	kind:file	line:1	language:C
+func.c	/home/hdp/public/a老师程序/func.c	1;"	kind:file	line:1	language:C
+g_HzkAsc	/home/hdp/public/a老师程序/c.c	/^unsigned char  g_HzkAsc[][16] = $/;"	kind:variable	line:14	language:C
+g_HzkAsc	/home/hdp/public/a老师程序/charStar.c	/^unsigned char  g_HzkAsc[][16] = $/;"	kind:variable	line:13	language:C
+g_HzkAsc	/home/hdp/public/a老师程序/d.c	/^unsigned char  g_HzkAsc[][16] = $/;"	kind:variable	line:77	language:C
+g_HzkAsc	/home/hdp/public/a老师程序/good.c	/^unsigned char  g_HzkAsc[][16] = $/;"	kind:variable	line:77	language:C
+getArea	/home/hdp/public/a老师程序/func.c	/^double getArea(double r)$/;"	kind:function	line:3	language:C	signature:(double r)
+getAverage	/home/hdp/public/a老师程序/score.c	/^float getAverage(int StudentNo)$/;"	kind:function	line:20	language:C	signature:(int StudentNo)
+getCircle	/home/hdp/public/a老师程序/func.c	/^double getCircle(double r)$/;"	kind:function	line:8	language:C	signature:(double r)
+getFileLen	/home/hdp/public/a老师程序/fileConect.c	/^long getFileLen(char fileName[])$/;"	kind:function	line:11	language:C	signature:(char fileName[])
+getLessonAverage	/home/hdp/public/a老师程序/score.c	/^float getLessonAverage(int LessonNo)$/;"	kind:function	line:32	language:C	signature:(int LessonNo)
+getMax	/home/hdp/public/a老师程序/max.c	/^int getMax(int Buf[] , int num)$/;"	kind:function	line:6	language:C	signature:(int Buf[] , int num)
+getMoney	/home/hdp/public/a老师程序/bank.c	/^void getMoney(void)$/;"	kind:function	line:40	language:C	signature:(void)
+getSameYearDays	/home/hdp/public/a老师程序/monthdays.c	/^int getSameYearDays(int y , int m1 , int d1 , int m2 , int d2)$/;"	kind:function	line:47	language:C	signature:(int y , int m1 , int d1 , int m2 , int d2)
+getVol	/home/hdp/public/a老师程序/func.c	/^double getVol(double r)$/;"	kind:function	line:19	language:C	signature:(double r)
+good.c	/home/hdp/public/a老师程序/good.c	1;"	kind:file	line:1	language:C
+h	/home/hdp/public/a老师程序/a.c	/^    float w , h ;$/;"	kind:local	line:6	language:C
+h	/home/hdp/public/a老师程序/body.c	/^    float w , h ;$/;"	kind:local	line:6	language:C
+h	/home/hdp/public/a老师程序/d.c	/^    float w , h ;$/;"	kind:local	line:6	language:C
+h	/home/hdp/public/a老师程序/good.c	/^    float w , h ;$/;"	kind:local	line:6	language:C
+hello.c	/home/hdp/public/a老师程序/hello.c	1;"	kind:file	line:1	language:C
+i	/home/hdp/public/a老师程序/bank.c	/^    int i ;$/;"	kind:local	line:110	language:C
+i	/home/hdp/public/a老师程序/bank.c	/^    int i ;$/;"	kind:local	line:15	language:C
+i	/home/hdp/public/a老师程序/bank.c	/^    int i ;$/;"	kind:local	line:75	language:C
+i	/home/hdp/public/a老师程序/bank.c	/^    int i ;$/;"	kind:local	line:94	language:C
+i	/home/hdp/public/a老师程序/bank.c	/^    int i;$/;"	kind:local	line:42	language:C
+i	/home/hdp/public/a老师程序/charStar.c	/^    int i , j ;$/;"	kind:local	line:283	language:C
+i	/home/hdp/public/a老师程序/charcnt.c	/^    int i; $/;"	kind:local	line:12	language:C
+i	/home/hdp/public/a老师程序/circle.c	/^    int i ;$/;"	kind:local	line:23	language:C
+i	/home/hdp/public/a老师程序/circle.c	/^    int i ;$/;"	kind:local	line:45	language:C
+i	/home/hdp/public/a老师程序/circle2.c	/^    int i ;$/;"	kind:local	line:8	language:C
+i	/home/hdp/public/a老师程序/circle3.c	/^    int i ;$/;"	kind:local	line:22	language:C
+i	/home/hdp/public/a老师程序/circle3.c	/^    int i ;$/;"	kind:local	line:33	language:C
+i	/home/hdp/public/a老师程序/max.c	/^    int i ;$/;"	kind:local	line:24	language:C
+i	/home/hdp/public/a老师程序/max.c	/^    int i ;$/;"	kind:local	line:8	language:C
+i	/home/hdp/public/a老师程序/maxlenword.c	/^    int i ;             \/\/循环变量$/;"	kind:local	line:10	language:C
+i	/home/hdp/public/a老师程序/month.c	/^int i , j ;$/;"	kind:variable	line:11	language:C
+i	/home/hdp/public/a老师程序/month.c	/^int i ;$/;"	kind:variable	line:4	language:C
+i	/home/hdp/public/a老师程序/monthdays.c	/^    int i ;$/;"	kind:local	line:49	language:C
+i	/home/hdp/public/a老师程序/monthdays.c	/^    int i ;$/;"	kind:local	line:94	language:C
+i	/home/hdp/public/a老师程序/multab.c	/^    int i ;$/;"	kind:local	line:6	language:C
+i	/home/hdp/public/a老师程序/score.c	/^    int i ;         \/\/第i个人的循环变量$/;"	kind:local	line:46	language:C
+i	/home/hdp/public/a老师程序/score.c	/^    int i ;$/;"	kind:local	line:22	language:C
+i	/home/hdp/public/a老师程序/score.c	/^    int i ;$/;"	kind:local	line:34	language:C
+i	/home/hdp/public/a老师程序/star.c	/^    int i ;$/;"	kind:local	line:14	language:C
+i	/home/hdp/public/a老师程序/star.c	/^    int i ;$/;"	kind:local	line:25	language:C
+i	/home/hdp/public/a老师程序/star.c	/^    int i ;$/;"	kind:local	line:5	language:C
+i	/home/hdp/public/a老师程序/strCat.c	/^    int i ;         \/\/第1个串的位置$/;"	kind:local	line:8	language:C
+i	/home/hdp/public/a老师程序/test/Star/star.c	/^    int i ;$/;"	kind:local	line:14	language:C
+i	/home/hdp/public/a老师程序/test/Star/star.c	/^    int i ;$/;"	kind:local	line:25	language:C
+i	/home/hdp/public/a老师程序/test/Star/star.c	/^    int i ;$/;"	kind:local	line:5	language:C
+i	/home/hdp/public/a老师程序/test/circle/circle.c	/^    int i ;$/;"	kind:local	line:19	language:C
+i	/home/hdp/public/a老师程序/test/circle/circle.c	/^    int i ;$/;"	kind:local	line:8	language:C
+isLeapYear	/home/hdp/public/a老师程序/monthdays.c	/^int isLeapYear(int y)$/;"	kind:function	line:27	language:C	signature:(int y)
+j	/home/hdp/public/a老师程序/charStar.c	/^    int i , j ;$/;"	kind:local	line:283	language:C
+j	/home/hdp/public/a老师程序/month.c	/^int i , j ;$/;"	kind:variable	line:11	language:C
+j	/home/hdp/public/a老师程序/multab.c	/^    int j ;$/;"	kind:local	line:7	language:C
+j	/home/hdp/public/a老师程序/score.c	/^    int j ;         \/\/第j门课程的循环变量$/;"	kind:local	line:47	language:C
+j	/home/hdp/public/a老师程序/strCat.c	/^    int j ;         \/\/第2个串的位置$/;"	kind:local	line:9	language:C
+key	/home/hdp/public/a老师程序/bank.c	/^    int key ;$/;"	kind:local	line:112	language:C
+key	/home/hdp/public/a老师程序/func.c	/^    int key ;$/;"	kind:local	line:29	language:C
+main	/home/hdp/public/a老师程序/a.c	/^void main(void)$/;"	kind:function	line:3	language:C	signature:(void)
+main	/home/hdp/public/a老师程序/area.c	/^void main(void)$/;"	kind:function	line:8	language:C	signature:(void)
+main	/home/hdp/public/a老师程序/b.c	/^void main(void)$/;"	kind:function	line:8	language:C	signature:(void)
+main	/home/hdp/public/a老师程序/bank.c	/^void main(void)$/;"	kind:function	line:108	language:C	signature:(void)
+main	/home/hdp/public/a老师程序/body.c	/^void main(void)$/;"	kind:function	line:3	language:C	signature:(void)
+main	/home/hdp/public/a老师程序/charStar.c	/^void main(void)$/;"	kind:function	line:280	language:C	signature:(void)
+main	/home/hdp/public/a老师程序/charcnt.c	/^void main(void)$/;"	kind:function	line:10	language:C	signature:(void)
+main	/home/hdp/public/a老师程序/circle.c	/^void main(void)$/;"	kind:function	line:61	language:C	signature:(void)
+main	/home/hdp/public/a老师程序/circle2.c	/^void main(void)$/;"	kind:function	line:6	language:C	signature:(void)
+main	/home/hdp/public/a老师程序/circle3.c	/^void main(void)$/;"	kind:function	line:31	language:C	signature:(void)
+main	/home/hdp/public/a老师程序/d.c	/^void main(void)$/;"	kind:function	line:3	language:C	signature:(void)
+main	/home/hdp/public/a老师程序/d.c	/^void main(void)$/;"	kind:function	line:49	language:C	signature:(void)
+main	/home/hdp/public/a老师程序/fileConect.c	/^void main(void)$/;"	kind:function	line:31	language:C	signature:(void)
+main	/home/hdp/public/a老师程序/fileDisp.c	/^void main(void)$/;"	kind:function	line:3	language:C	signature:(void)
+main	/home/hdp/public/a老师程序/filecon.c	/^void main(void)$/;"	kind:function	line:3	language:C	signature:(void)
+main	/home/hdp/public/a老师程序/filecpy.c	/^void main(void)$/;"	kind:function	line:3	language:C	signature:(void)
+main	/home/hdp/public/a老师程序/filecpybak.c	/^void main(void)$/;"	kind:function	line:3	language:C	signature:(void)
+main	/home/hdp/public/a老师程序/fileexport.c	/^void main(void)$/;"	kind:function	line:11	language:C	signature:(void)
+main	/home/hdp/public/a老师程序/fileread.c	/^void main(void)$/;"	kind:function	line:3	language:C	signature:(void)
+main	/home/hdp/public/a老师程序/func.c	/^void main(void)$/;"	kind:function	line:25	language:C	signature:(void)
+main	/home/hdp/public/a老师程序/good.c	/^void main(void)$/;"	kind:function	line:3	language:C	signature:(void)
+main	/home/hdp/public/a老师程序/good.c	/^void main(void)$/;"	kind:function	line:49	language:C	signature:(void)
+main	/home/hdp/public/a老师程序/hello.c	/^void main(void)$/;"	kind:function	line:3	language:C	signature:(void)
+main	/home/hdp/public/a老师程序/max.c	/^void main(void)$/;"	kind:function	line:22	language:C	signature:(void)
+main	/home/hdp/public/a老师程序/maxlenword.c	/^void main(void)$/;"	kind:function	line:8	language:C	signature:(void)
+main	/home/hdp/public/a老师程序/month.c	/^void main(void)$/;"	kind:function	line:37	language:C	signature:(void)
+main	/home/hdp/public/a老师程序/monthdays.c	/^void main(void)$/;"	kind:function	line:91	language:C	signature:(void)
+main	/home/hdp/public/a老师程序/multab.c	/^void main(void)$/;"	kind:function	line:4	language:C	signature:(void)
+main	/home/hdp/public/a老师程序/score.c	/^void main(void)$/;"	kind:function	line:44	language:C	signature:(void)
+main	/home/hdp/public/a老师程序/star.c	/^void main(void)$/;"	kind:function	line:23	language:C	signature:(void)
+main	/home/hdp/public/a老师程序/strCat.c	/^void main(void)$/;"	kind:function	line:6	language:C	signature:(void)
+main	/home/hdp/public/a老师程序/strsort.c	/^void main(void)$/;"	kind:function	line:6	language:C	signature:(void)
+main	/home/hdp/public/a老师程序/swap.c	/^void main(void)$/;"	kind:function	line:11	language:C	signature:(void)
+main	/home/hdp/public/a老师程序/test/Star/star.c	/^void main(void)$/;"	kind:function	line:23	language:C	signature:(void)
+main	/home/hdp/public/a老师程序/test/circle/circle.c	/^void main(void)$/;"	kind:function	line:17	language:C	signature:(void)
+manNum	/home/hdp/public/a老师程序/circle.c	/^    int manNum ;$/;"	kind:local	line:46	language:C
+max	/home/hdp/public/a老师程序/max.c	/^    int max ;$/;"	kind:local	line:9	language:C
+max.c	/home/hdp/public/a老师程序/max.c	1;"	kind:file	line:1	language:C
+maxlenword.c	/home/hdp/public/a老师程序/maxlenword.c	1;"	kind:file	line:1	language:C
+month.c	/home/hdp/public/a老师程序/month.c	1;"	kind:file	line:1	language:C
+monthdays.c	/home/hdp/public/a老师程序/monthdays.c	1;"	kind:file	line:1	language:C
+multab.c	/home/hdp/public/a老师程序/multab.c	1;"	kind:file	line:1	language:C
+pf	/home/hdp/public/a老师程序/fileConect.c	/^    FILE *pf ;$/;"	kind:local	line:15	language:C
+pf	/home/hdp/public/a老师程序/fileDisp.c	/^    FILE *pf ;$/;"	kind:local	line:6	language:C
+pf	/home/hdp/public/a老师程序/fileread.c	/^    FILE *pf ;$/;"	kind:local	line:7	language:C
+pf1	/home/hdp/public/a老师程序/filecon.c	/^    FILE *pf1 ;$/;"	kind:local	line:5	language:C
+pf1	/home/hdp/public/a老师程序/filecpy.c	/^    FILE *pf1 ;     \/\/读$/;"	kind:local	line:5	language:C
+pf1	/home/hdp/public/a老师程序/filecpybak.c	/^    FILE *pf1 ;     \/\/读$/;"	kind:local	line:5	language:C
+pf2	/home/hdp/public/a老师程序/filecon.c	/^    FILE *pf2 ;$/;"	kind:local	line:6	language:C
+pf2	/home/hdp/public/a老师程序/filecpy.c	/^    FILE *pf2 ;     \/\/写$/;"	kind:local	line:6	language:C
+pf2	/home/hdp/public/a老师程序/filecpybak.c	/^    FILE *pf2 ;     \/\/写$/;"	kind:local	line:6	language:C
+pfRead	/home/hdp/public/a老师程序/fileConect.c	/^    FILE *pfRead ;$/;"	kind:local	line:34	language:C
+pfRead	/home/hdp/public/a老师程序/fileexport.c	/^    FILE *pfRead;$/;"	kind:local	line:13	language:C
+pfWrite	/home/hdp/public/a老师程序/fileConect.c	/^    FILE *pfWrite ;$/;"	kind:local	line:33	language:C
+pfWrite	/home/hdp/public/a老师程序/fileexport.c	/^    FILE *pfWrite ;$/;"	kind:local	line:14	language:C
+printBlank	/home/hdp/public/a老师程序/star.c	/^void printBlank(int blankNum)$/;"	kind:function	line:3	language:C	signature:(int blankNum)
+printBlank	/home/hdp/public/a老师程序/test/Star/star.c	/^void printBlank(int blankNum)$/;"	kind:function	line:3	language:C	signature:(int blankNum)
+printStar	/home/hdp/public/a老师程序/star.c	/^void printStar(int starNum)$/;"	kind:function	line:12	language:C	signature:(int starNum)
+printStar	/home/hdp/public/a老师程序/test/Star/star.c	/^void printStar(int starNum)$/;"	kind:function	line:12	language:C	signature:(int starNum)
+r	/home/hdp/public/a老师程序/area.c	/^	double r ;$/;"	kind:local	line:11	language:C
+r	/home/hdp/public/a老师程序/b.c	/^	double r ;$/;"	kind:local	line:11	language:C
+r	/home/hdp/public/a老师程序/d.c	/^	double r ;$/;"	kind:local	line:52	language:C
+r	/home/hdp/public/a老师程序/func.c	/^    double r ;$/;"	kind:local	line:27	language:C
+r	/home/hdp/public/a老师程序/good.c	/^	double r ;$/;"	kind:local	line:52	language:C
+result	/home/hdp/public/a老师程序/func.c	/^    double result ;$/;"	kind:local	line:28	language:C
+s	/home/hdp/public/a老师程序/area.c	/^	double s ;$/;"	kind:local	line:13	language:C
+s	/home/hdp/public/a老师程序/b.c	/^	double s ;$/;"	kind:local	line:13	language:C
+s	/home/hdp/public/a老师程序/d.c	/^	double s ;$/;"	kind:local	line:54	language:C
+s	/home/hdp/public/a老师程序/good.c	/^	double s ;$/;"	kind:local	line:54	language:C
+s1	/home/hdp/public/a老师程序/strCat.c	/^char s1[100] = "hello ";$/;"	kind:variable	line:3	language:C
+s2	/home/hdp/public/a老师程序/strCat.c	/^char s2[100] = "world.";$/;"	kind:variable	line:4	language:C
+saveMoney	/home/hdp/public/a老师程序/bank.c	/^void saveMoney(void)$/;"	kind:function	line:73	language:C	signature:(void)
+score.c	/home/hdp/public/a老师程序/score.c	1;"	kind:file	line:1	language:C
+ss	/home/hdp/public/a老师程序/circle3.c	/^char ss[] = "hello" ;$/;"	kind:variable	line:12	language:C
+ss	/home/hdp/public/a老师程序/circle3.c	/^char ss[] = {'h' , 'e' , 'l' , 'l' , 'o' ,'\\0'} ;$/;"	kind:variable	line:13	language:C
+star.c	/home/hdp/public/a老师程序/star.c	1;"	kind:file	line:1	language:C
+star.c	/home/hdp/public/a老师程序/test/Star/star.c	1;"	kind:file	line:1	language:C
+strCat.c	/home/hdp/public/a老师程序/strCat.c	1;"	kind:file	line:1	language:C
+strsort.c	/home/hdp/public/a老师程序/strsort.c	1;"	kind:file	line:1	language:C
+swap	/home/hdp/public/a老师程序/swap.c	/^void swap(int *x , int *y)$/;"	kind:function	line:3	language:C	signature:(int *x , int *y)
+swap.c	/home/hdp/public/a老师程序/swap.c	1;"	kind:file	line:1	language:C
+t	/home/hdp/public/a老师程序/a.c	/^    float t ;       \/\/体指数$/;"	kind:local	line:7	language:C
+t	/home/hdp/public/a老师程序/body.c	/^    float t ;       \/\/体指数$/;"	kind:local	line:7	language:C
+t	/home/hdp/public/a老师程序/d.c	/^    float t ;       \/\/体指数$/;"	kind:local	line:7	language:C
+t	/home/hdp/public/a老师程序/good.c	/^    float t ;       \/\/体指数$/;"	kind:local	line:7	language:C
+tmp	/home/hdp/public/a老师程序/strsort.c	/^    char tmp ;$/;"	kind:local	line:10	language:C
+tmp	/home/hdp/public/a老师程序/swap.c	/^    int tmp ;$/;"	kind:local	line:5	language:C
+w	/home/hdp/public/a老师程序/a.c	/^    float w , h ;$/;"	kind:local	line:6	language:C
+w	/home/hdp/public/a老师程序/body.c	/^    float w , h ;$/;"	kind:local	line:6	language:C
+w	/home/hdp/public/a老师程序/d.c	/^    float w , h ;$/;"	kind:local	line:6	language:C
+w	/home/hdp/public/a老师程序/good.c	/^    float w , h ;$/;"	kind:local	line:6	language:C
